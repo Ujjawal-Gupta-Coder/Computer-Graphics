@@ -1,33 +1,5 @@
 // AIM: Write a program to draw basic graphics constructions like circle, line, arc, elipse and rectangle 
 
-//#include <graphics.h>
-//#include <conio.h>
-//
-//int main()
-//{
-//    int gd = DETECT, gm;
-//    initgraph(&gd, &gm, (char*)"");
-//
-//    // Line
-//    line(50, 50, 300, 50);
-//
-//    // Rectangle
-//    rectangle(50, 100, 300, 200);
-//
-//    // Circle
-//    circle(500, 150, 50);
-//
-//    // Ellipse
-//    ellipse(500, 300, 0, 360, 80, 40);
-//
-//    // Arc
-//    arc(200, 350, 0, 180, 80);
-//
-//    getch();
-//    closegraph();
-//    return 0;
-//}
-
 #include <graphics.h>
 #include <conio.h>
 
